@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tech-Savy004
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently in 12th grade but have eagerness to learn web and its related technology !!
+- 🌱 I’m currently in 12th grade and have eagerness to learn web and its related technology !!
 
 
 <!---
